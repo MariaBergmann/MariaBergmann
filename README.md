@@ -19,6 +19,4 @@ My name is Maria and i'm a web developer.
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
-- Graduanda em Análise e Desenvolvimento de Sistemas.
-- Atualmente estudo e desenvolvo projetos fullstack.
 
