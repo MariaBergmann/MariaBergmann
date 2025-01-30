@@ -6,7 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariabergmann27@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariah.bergmann/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=MariaBergmann&show_icons=true&theme=radical" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBergmann&amp;theme=dracula" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBergmann&amp;theme=dracula" height="200">
+
 ### Tecnologias que uso no meu dia
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
