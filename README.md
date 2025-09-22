@@ -9,6 +9,7 @@ My name is Maria and i'm a developer.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariah.bergmann/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBergmann&amp;theme=dracula" height="200">
+
 ⚒️Technologies & Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
